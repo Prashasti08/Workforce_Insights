@@ -1,2 +1,5 @@
 ## Workforce Insights: Translating Employee Data into Scalable People Solutions R
 The goal of this notebook is to explore the development of a model that predicts the drivers of increase in turnover rates and decrease in sales for a Food and Beverage Company. First, I clean and explore the dataset to prepare it for subsequent analyses. After reviewing the organization's employee's demographics and performance characteristics through EDA, I generate two logistic regression models that predict employee turnover
+
+## Skills
+People Analytics, Exploratory Data Analysis, Coorleation Analysis, Regression Analysis, Data Visualization, R
